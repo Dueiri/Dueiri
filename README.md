@@ -3,7 +3,7 @@
 This repository is strictly personal, and includes all of my passion projects. 
 Anything related to my courses and work will not be here.
 
-Current Focus
+Current Focus \r
 Device networking using Boost.Asio
 Embedded Systems w/ C & C++ 
 Im pretty good at using STM32s. I wanna make a hexapod eventually
