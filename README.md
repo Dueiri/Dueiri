@@ -25,6 +25,6 @@ This repository is strictly personal!
 </p>
 
 
-<h2>contact me at duerigit@gmail.com!!</h2>
+<h2>contact me at duerigit@gmail.com</h2>
 
 <!-- I hate good looking css. This format was totally done on purpose
