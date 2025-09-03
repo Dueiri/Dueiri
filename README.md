@@ -2,7 +2,8 @@
 
 <center>This repository is strictly personal!</center>
 
-
+<p align="center">
+</p>
 <img width="732" height="519" alt="image" src="https://github.com/user-attachments/assets/909bb23a-434f-4b3b-9730-54c93fae1819" />
 <p align="center">
 </p>
@@ -20,7 +21,8 @@
 <p align="center">
 </p>
 <center>Im pretty good at using STM32s. I wanna make a hexapod eventually</center>
-
+<p align="center">
+</p>
 
 <center>Languages:</center>
 <p align="center">
@@ -36,3 +38,4 @@
 
 contact me at duerigit@gmail.com
 
+<!-- I hate good looking css. This format was totally done on purpose
