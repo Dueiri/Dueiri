@@ -12,9 +12,8 @@
 </p>
 <center>Device networking using Boost.Asio</center>
 
-
-<center>Languages:</center>
 <p align="center">
+  Languages:
 </p>
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bac97533-9c97-4725-8306-786a4de5e615" />
