@@ -5,9 +5,9 @@
 
 <img width="732" height="519" alt="image" src="https://github.com/user-attachments/assets/909bb23a-434f-4b3b-9730-54c93fae1819" />
 
-<center>Current Focus:</center>
+Current Focus:
 
-<centDevice networking using Boost.Asio
+Device networking using Boost.Asio
 
 
 Hardware skills:
