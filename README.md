@@ -1,7 +1,7 @@
 ## Welcome to my github repository
 
-This repository is strictly personal, and includes all of my passion projects. 
-Anything related to my courses and work will not be here.
+This repository is strictly personal!
+<img width="732" height="519" alt="image" src="https://github.com/user-attachments/assets/909bb23a-434f-4b3b-9730-54c93fae1819" />
 
 Current Focus:
 
