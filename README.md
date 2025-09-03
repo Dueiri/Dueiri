@@ -12,17 +12,6 @@
 </p>
 <center>Device networking using Boost.Asio</center>
 
-<p align="center">
-</p>
-<center>Hardware skills:</center>
-<p align="center">
-</p>
-<center>Embedded Systems w/ C & C++</center>
-<p align="center">
-</p>
-<center>Im pretty good at using STM32s. I wanna make a hexapod eventually</center>
-<p align="center">
-</p>
 
 <center>Languages:</center>
 <p align="center">
