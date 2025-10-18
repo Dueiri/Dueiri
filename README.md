@@ -10,7 +10,6 @@ This repository is strictly personal!
 <h3 align="center"> Current Focus: </h3>
 <p align="center">
 </p>
-<center>Device networking using Boost.Asio</center>
 
 <p align="center">
   Languages:
